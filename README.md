@@ -5,5 +5,11 @@ It will be containing the following features -
 - Anyone can see existing Todo
 - Anyone can mark Todo as done
 <br>
-Things which will be added later 
--users to be added 
+Used are -
+- express
+- mongodb
+- react
+Things needed to improve -
+- users to be added
+- ui/css add
+- add more features
